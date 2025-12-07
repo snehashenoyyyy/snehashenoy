@@ -1,4 +1,4 @@
 # snehashenoy
 My first Git Repository.
 <br>
-Author - Sneha Shenoy
+Author - Sneha Shenoy (demo)
